@@ -1,0 +1,46 @@
+body {
+    background-color: #111;
+    color: #eeeeee;
+    align-content: center;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 828px;
+    margin: 0 auto;
+}
+
+.welcome {
+    text-align: center;
+    width: 100%;
+    height: 275px;
+    background: url('https://media.discordapp.net/attachments/804179531824758795/1081403568902373447/joepiter.gif?ex=65fe3f0e&is=65ebca0e&hm=9a5a4c4aadd1740002df9b3c1d81470fc7498b08833a113ce99129ae822d0634&');
+}
+
+.Table {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px; 
+}
+
+.meetThe {
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 414px 0;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+.steam {
+    font-size: 30px;
+    background-color: #555;
+    border-color: black;
+    border: solid;
+}
+
+a {
+    target: blank;
+}
